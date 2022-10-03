@@ -7,7 +7,7 @@ qr = qrcode.QRCode(
 
 	)
 
-data =input("Enter Data of Which QR Code You Want")
+data =input("Enter Data of Which QR Code You Want: ")
 qr.add_data(data)
 qr.make(fit=True)
 img=qr.make_image(fill="black",back_color="white")
