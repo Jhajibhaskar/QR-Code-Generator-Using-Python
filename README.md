@@ -4,6 +4,6 @@ Recommended to use pycharm
 
 First run 'pip install qrcode' in terminal of pycharm to install required Python library
 
-Save This Python code in some folder , the generated qr code will be saved in same folder as "Data1.png"
+Save This Python code in some folder ,& the generated qr code will be automatically saved in same folder as "Data1.png" filename.
 
 
