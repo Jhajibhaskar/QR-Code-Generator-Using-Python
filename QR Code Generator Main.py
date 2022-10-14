@@ -1,3 +1,4 @@
+# First run 'pip install qrcode' in terminal of pycharm then execute the below program
 import qrcode
 qr = qrcode.QRCode(
 
