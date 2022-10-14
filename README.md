@@ -1,6 +1,6 @@
 # QR-Code-Generator-Using-Python
 Quick & Simple Way to Generate QR Code of any data using Python , 
-Recommend to use pycharm
+Recommended to use pycharm
 
 First run 'pip install qrcode' in terminal of pycharm to install required Python library
 
